@@ -7,6 +7,8 @@
 
 Aplicativo simples feito com React Native (Expo) onde o usuário “quebra” um biscoito da sorte e recebe uma frase positiva aleatória. As frases estão armazenadas localmente.
 
+```md
+
 ---
 
 ## 📱 Funcionalidades
@@ -24,6 +26,8 @@ As frases estão localmente no arquivo:
 ```
 
 /fortune.js
+
+```
 
 ````
 
