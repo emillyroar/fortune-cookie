@@ -2,12 +2,12 @@
 
 ## 📄 `README.md` para projeto local com `fortune.js`
 
-```md
+
 # Fortune Cookie App 🍪
 
 Aplicativo simples feito com React Native (Expo) onde o usuário “quebra” um biscoito da sorte e recebe uma frase positiva aleatória. As frases estão armazenadas localmente.
 
-```md
+
 
 ---
 
